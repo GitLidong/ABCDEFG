@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_dimen_10">3.64dp</dimen>
+    <dimen name="view_dimen_100">36.4dp</dimen>
+    <dimen name="view_dimen_400">145.45dp</dimen>
+    <dimen name="view_dimen_500">181.82dp</dimen>
+    <dimen name="view_dimen_600">218.18dp</dimen>
+    <dimen name="view_dimen_800">290.91dp</dimen>
+</resources>

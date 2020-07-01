@@ -8,4 +8,19 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MenuStyle">
+        <item name="android:layout_width">@dimen/view_dimen_100</item>
+        <item name="android:layout_height">@dimen/view_dimen_100</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+
+    <style name="MenuItemStyle">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">@dimen/view_dimen_100</item>
+        <item name="android:layout_height">@dimen/view_dimen_100</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+
 </resources>
